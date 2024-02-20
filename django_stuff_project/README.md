@@ -6,3 +6,13 @@
 
 
  python manage.py runserver
+
+
+# LAB - Class 32
+
+## Project: Permissions & Postgresql
+
+## Author: Zachary Moore
+
+
+ python manage.py runserver
