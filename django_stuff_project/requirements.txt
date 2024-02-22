@@ -10,6 +10,9 @@ distro==1.9.0
 Django==5.0.2
 django-appconf==1.0.6
 django-compressor==4.4
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+gunicorn==21.2.0
 h11==0.14.0
 httpcore==1.0.2
 httpx==0.26.0
@@ -26,8 +29,10 @@ plumber==1.7
 pydantic==2.6.1
 pydantic_core==2.16.2
 pygame==2.5.2
+PyJWT==2.8.0
 pytest==7.4.4
 python-dotenv==1.0.1
+pytz==2024.1
 rcssmin==1.1.1
 regex==2023.12.25
 requests==2.31.0
